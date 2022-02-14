@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### My name is Yelena. I am developer.
+
+**My technologies:**
+* HTML/CSS
+* Javascript
+* React
+
+**My contacts:[telegram](https:telegram...)**
+
 <!--
 **Ltsoy1120/Ltsoy1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

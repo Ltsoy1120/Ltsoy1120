@@ -4,9 +4,8 @@
 
 - 📫 Reach me out: 
     * **Email**: ltsoy1120@gmail.com
-    * **Telegram**: [telegram](https://t.me/YelenaTsoy1120 )
-  
-**My contacts: https://t.me/YelenaTsoy1120 **
+    * **Telegram**: https://t.me/YelenaTsoy1120
+<br/>
 
 ### Languages && FrameWorks &&  Tools:
 

@@ -7,7 +7,7 @@
 * Javascript
 * React
 
-**My contacts:[telegram](https:telegram...)**
+**My contacts:[telegram](@YelenaTsoy1120 )**
 
 <!--
 **Ltsoy1120/Ltsoy1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

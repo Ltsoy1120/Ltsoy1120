@@ -1,10 +1,9 @@
 ### Hi there 👋! I'm Yelena.
 
-### I am developer (Junior).
+### I am developer.
 
 - 📫 Reach me out: 
     * **Email**: ltsoy1120@gmail.com
-<br/>
 
 ### Languages && FrameWorks &&  Tools:
 

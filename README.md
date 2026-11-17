@@ -1,42 +1,66 @@
-### Hi there 👋! I'm Yelena.
 
-### I am developer.
+# Hi, I'm Yelena 👋
 
-- 📫 Reach me out: 
-    * **Email**: ltsoy1120@gmail.com
+### Frontend Developer | React • TypeScript • Next.js
 
-### Languages && FrameWorks &&  Tools:
+I'm a frontend developer with **5+ years of commercial experience** building and maintaining web applications, including CRM systems, fintech interfaces, and business management platforms.
 
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="TS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<img align="left" alt="NextJS" width="40px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs">
-<img align="left" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png">
-<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png">
-<br/>
-<br/>
+I enjoy working on complex user interfaces, reusable components, business logic, and API integrations. I focus on building maintainable applications and improving existing products.
 
-### I am studying:
+📍 Almaty, Kazakhstan  
+💼 Open to frontend development opportunities
 
-<img align="left" alt="Docker" width="40px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+## 🛠 Tech Stack
 
+**Frontend**
+- React, Next.js, TypeScript, JavaScript
+- Redux Toolkit, MobX, React Context
+- HTML5, CSS3, SCSS, Tailwind CSS, Material UI
+- React Hook Form, React Table, i18next
 
-<!--
-**Ltsoy1120/Ltsoy1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**APIs & Development Tools**
+- REST API, WebSocket
+- Git, GitLab, Figma
+- Claude Code for code analysis, development, debugging, and refactoring
 
-Here are some ideas to get you started:
+**Additional Experience**
+- Node.js, Express, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+
+### All Funeral Services LLC
+**Frontend Developer | 2025–2026**
+
+Developed and maintained a business management platform serving the US and Israeli markets.
+
+- Built and improved interfaces for orders, customers, services, payments, and subscriptions.
+- Developed interactive forms, tables, and reusable React components.
+- Integrated REST APIs and implemented real-time updates using WebSocket.
+- Worked with React, TypeScript, MobX, and SCSS.
+
+### Previous Experience
+
+Worked on fintech interfaces, booking platforms, customer dashboards, and business applications using React, TypeScript, Next.js, and Redux Toolkit.
+
+Most of my commercial work was developed in private company repositories. My public GitHub projects represent selected examples of my work.
+
+## 🚀 Selected Projects
+
+**[GREEN API Chat](https://github.com/Ltsoy1120/green-api-max-chat)**  
+A React and TypeScript messaging application integrating GREEN-API.
+
+**[Tabihunt](https://github.com/Ltsoy1120/tabihunt)**  
+A booking and permit management platform built with React, Next.js, and TypeScript.
+
+**[All Funeral Test](https://github.com/Ltsoy1120/allfuneral-test)**  
+A technical assignment completed during the hiring process for a commercial frontend position.
+
+**[Froot.kz](https://github.com/Ltsoy1120/froot-kz)**  
+A team graduation project from my Fullstack Developer training.
+
+## 📫 Contact
+
+- **Email:** [ltsoy1120@gmail.com](mailto:ltsoy1120@gmail.com)
+- **LinkedIn:** [Yelena Tsoy](https://www.linkedin.com/in/yelena-tsoy-0aa1b9351/)
+- **GitHub:** [Ltsoy1120](https://github.com/Ltsoy1120)
+
